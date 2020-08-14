@@ -1,4 +1,6 @@
 # Credit-Management-Website
+Sparks Foundation Internship Project
+
 A Web Application used to tranfer credit between multiple users.
 
 Credit is sort of points which can be transferred from one user to another
