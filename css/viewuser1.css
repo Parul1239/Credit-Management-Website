@@ -1,0 +1,176 @@
+.logo img{
+	width: 75px;
+	height:70px;
+	float: left;
+	position:relative;
+	z-index:10000;
+	margin-left: 10px;
+	border-radius: 51%;
+	margin-top: -11px;
+}
+.login-wrap2{
+	width:100%;
+	margin:auto;
+	max-width: 710px;
+	min-height: 750px;
+	position:relative;
+	box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+	max-height: auto;
+}
+.container2 .btn {
+  position: absolute;
+  margin-left: -515px;
+  margin-top: 40px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #FFD700;
+  color: #696969;
+  font-size: 20px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+}
+#my_table1{
+		margin-left: 30px;
+		font-size: 19px;
+		width: 480px;
+		border-collapse: collapse;
+		text-align: center;
+	}
+	td{
+		padding: 9px;
+		font-size: 18px;
+	}
+	th{
+		padding: 8px;
+		font-size: 20px;
+	}
+	
+
+.button1, .btn1{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 12px 26px;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  opacity: 0.8;
+  margin-right: 20px;
+  margin-top: -75px;
+}
+.login-form{
+	margin-top: -40px;
+	min-height:360px;
+	position:relative;
+	perspective:1000px;
+	transform-style:preserve-3d;
+}
+body{
+	margin:0;
+	color:#6a6f8c;
+	/*font:600 16px/18px 'Open Sans',sans-serif;*/
+	
+    margin:0;
+	height:100%;
+	width:100%;
+}
+header{
+	width: 100%;
+}
+
+#my_table1{
+		margin-left: 30px;
+		font-size: 16px;
+	}
+	th,td{
+		padding: 10px;
+	}
+
+.button2{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  border-radius: 8px;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  opacity: 0.8;
+  margin-left: 180px;
+  margin-top: 30px;
+}
+
+
+.login-form img{
+width:525px;
+height:300px;
+position:relative;
+margin-top:0px;
+}
+
+.login-form h1{
+	font-size:30px;
+	font-family:Avanta Garde;
+	font-style: normal;
+	color: #696969;
+	text-align: center;
+	margin-top: 20px;
+}
+
+h2{
+	margin-left: 30px;
+}
+.login-wrap{
+	width:100%;
+	margin:auto;
+	max-width:540px;
+	min-height:670px;
+	position:relative;
+	box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+
+h3{
+	font-size: 35px;
+	font-family: serif;
+	font-style: oblique;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #236B8E;
+	 text-shadow: 1px 0px;
+	 margin-top: 20px;
+}
+select{
+margin-left:30px;
+width:260px;
+height:35px;
+font-size:20px;
+font-family:Avanta Garde;
+font-style: normal;
+color: #696969;
+margin-top:5px;
+}
+label{
+	font-size: 25px;
+	margin-left: 30px;
+}
+input{
+	margin-left: 30px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	font-size: 16px;
+	padding: 4px 4px;
+	width: 260px;
+}
+hr{
+	height: 1px;
+    background-color: #404040;
+    border: none;
+}
